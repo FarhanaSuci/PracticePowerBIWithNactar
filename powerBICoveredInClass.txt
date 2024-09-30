@@ -12,4 +12,6 @@
 12WaterfallChart: Uses for comparative study
 13.treemap
 14.Gauge chart: Uses as an Indicator.Having target value.
-
+15. Card: text view , Date View , number view
+16. Multi-row card
+17.Drll through : Value change from one page to another with respect to relative date.
