@@ -4,4 +4,3 @@
 4.Donar Chart
 5.Panel chart
 6.RibbonChart
-7.Card : For Showing total amount.
