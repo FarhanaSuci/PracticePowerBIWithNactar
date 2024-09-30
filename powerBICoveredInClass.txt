@@ -1,2 +1,6 @@
 1.Column Chart
 2.Stack Column Chart
+3.Pie chart
+4.Donar Chart
+5.Panel chart
+6.RibbonChart
