@@ -5,3 +5,11 @@
 5.Panel chart
 6.RibbonChart
 7.Card : For Showing total amount.
+8.Filtering
+9.Line Chart
+10.Area Chart
+11.Scatter Chart:Gives Animation and Graphical representation
+12WaterfallChart: Uses for comparative study
+13.treemap
+14.Gauge chart: Uses as an Indicator.Having target value.
+
