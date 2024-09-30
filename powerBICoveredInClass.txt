@@ -1,0 +1,2 @@
+1.Column Chart
+2.Stack Column Chart
